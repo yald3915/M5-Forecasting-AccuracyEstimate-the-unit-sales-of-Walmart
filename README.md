@@ -1,6 +1,6 @@
-This file （tuning-deepsort-helmet-mapping.ipynb） is the baseline code for kaggle NFL Health & Safety - Helmet Assignment
+This file （tuning-deepsort-helmet-mapping.ipynb） is the baseline code for M5 Forecasting - AccuracyEstimate the unit sales of Walmart retall goods
 
-tuning-deepsort-helmet-mapping.ipynb文件是NFL Health & Safety - Helmet Assignment比赛的baseline代码
+tuning-deepsort-helmet-mapping.ipynb文件是M5 Forecasting - AccuracyEstimate the unit sales of Walmart retall goods（M5预测 - 准确性估计沃尔玛商品的单位销售额）比赛的baseline代码
 
 ⭐Please star to download the file
 
